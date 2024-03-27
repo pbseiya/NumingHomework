@@ -1,0 +1,6 @@
+git init
+git remote add origin https://github.com/pbseiya/NumingHomework.git # change https://... to you repository
+git add . # your directory which you want to commit, . is current directory
+git commit -m "1st commit"
+git branch -M main
+git push -u origin main
